@@ -55,8 +55,8 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  journal-peer-reviewed:
+    title: 'Journal Articles (Peer-Reviewd)'    
   conferences:
     title: 'Conference Papers'
 
