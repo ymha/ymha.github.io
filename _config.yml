@@ -54,12 +54,12 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   working:
-    title: 'Work in Progress'
+    title: 'Works in Progress'
   journal:
     title: 'Journal Articles'    
-  conferences:
+  conference:
     title: 'Conference Papers'
-  patents:
+  patent:
     title: 'Patents'
 
 # Site Settings
