@@ -25,9 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Youngmok Ha"
   pronouns         : # example: "she/her"  
-  bio              : "Regular Researcher at ETRI. 
-					  Master's in Information Security, Korea University.
-					  Bachelor's in Computer and Communication Engineering (now Computer Science), Korea University"
+  bio              : |
+    Working at ETRI
+	Master from Korea University
+	Bachelor from Korea University
 #  location         : "Earth"
   employer         : "ETRI, South Korea"
   uri              : # URL
