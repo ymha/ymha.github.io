@@ -9,8 +9,8 @@ redirect_from:
 
 Hi, I'm Youngmok Ha.
 
-I am an incoming PhD student in the Department of Bioengineering at Imperial College London in London, UK, currently on leave from my position as a Senior Researcher at the Electronics and Telecommunications Research Institute (ETRI) in Daejeon, South Korea, to pursue my doctoral studies. 
-I received my Master’s degree from the Department of Information Security and my Bachelor’s degree from the College of Information & Communication (now the College of Informatics), both at Korea University in Seoul, South Korea.
+I am a PhD student in the Department of Bioengineering at Imperial College London, UK. My research is supervised by Professor Anil Bharath (primary supervisor) and Dr Viktor Schlegel (co-advisor).
+I received my Master’s degree from the Department of Information Security at Korea University in Seoul, South Korea, where I was supervised by Professor Ji Won Yoon. I also completed my Bachelor’s degree at the College of Information & Communication (now the College of Informatics) at the same university.
 
-My current research interests are at the intersection of artificial intelligence (AI) and security, with a focus on medical applications and devices. I also maintain a strong interest in optimization methodologies and distributed systems.
+My current research encompasses machine learning, privacy enhancement, distributed systems, and medical applications, with a focus on generative models.
 
